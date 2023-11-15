@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Main {
 	
-	static final File MY_FILE = new File("./bookList.txt");
+	static final File MY_FILE = new File("C:\\Users\\tommi\\Desktop\\tmp\\test.txt"); 
 
 	public static void main(String[] args) throws Exception {
 		
